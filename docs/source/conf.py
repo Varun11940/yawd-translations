@@ -23,7 +23,7 @@ import sys, os
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
 
-# Add any Sphinx extension module names here, as strings. They can be extensions
+# Add any Sphinx extension module names here, as strings. There can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinx.ext.viewcode']
 
@@ -89,7 +89,7 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output ---------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
+# The theme to used for HTML and HTML Support pages.  See the documentation for
 # a list of builtin themes.
 html_theme = 'nature'
 
